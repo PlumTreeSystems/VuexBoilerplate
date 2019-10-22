@@ -1,0 +1,2 @@
+# VuexBoilerplate
+Vuex boilerplate
